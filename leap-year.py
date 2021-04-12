@@ -1,4 +1,5 @@
 
+
 first line
 merhabalar bu değişiklikler yapılırken kamu yararı gözetilmiştir.
 git komutları
@@ -11,3 +12,4 @@ git --global user.email"alexasiz2008@gmail.com"
 
 
 second line
+c8338
